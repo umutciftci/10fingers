@@ -5,7 +5,7 @@ import time
 driver_path = "YOURDRIVERPATH"
 driver = webdriver.Chrome(executable_path=driver_path)
 
-driver.get("https://10fastfingers.com/typing-test/english/")
+driver.get("https://10fastfingers.com/typing-test/turkish/")
 
 time.sleep(1)
 #get the word
